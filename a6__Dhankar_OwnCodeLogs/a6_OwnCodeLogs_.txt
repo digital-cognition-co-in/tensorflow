@@ -1,0 +1,19 @@
+# Mostly TF Learning Notes 
+#
+# Search with --- FATT --- 
+#
+dhankar@dhankar-VPCEB44EN:/media/dhankar/Dhankar_1/a6_18/OwnFork_TensorFlow$ git init
+Initialized empty Git repository in /media/dhankar/Dhankar_1/a6_18/OwnFork_TensorFlow/.git/
+dhankar@dhankar-VPCEB44EN:/media/dhankar/Dhankar_1/a6_18/OwnFork_TensorFlow$ 
+dhankar@dhankar-VPCEB44EN:/media/dhankar/Dhankar_1/a6_18/OwnFork_TensorFlow$ git clone https://github.com/digital-cognition-co-in/tensorflow
+Cloning into 'tensorflow'...
+remote: Enumerating objects: 469474, done.
+remote: Total 469474 (delta 0), reused 0 (delta 0), pack-reused 469474
+Receiving objects: 100% (469474/469474), 277.42 MiB | 1.72 MiB/s, done.
+Resolving deltas: 100% (376455/376455), done.
+Checking connectivity... done.
+Checking out files: 100% (13654/13654), done.
+dhankar@dhankar-VPCEB44EN:/media/dhankar/Dhankar_1/a6_18/OwnFork_TensorFlow$ 
+
+#
+
