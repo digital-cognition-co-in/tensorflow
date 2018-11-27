@@ -2117,6 +2117,7 @@ def _softmax(logits, compute_op, dim=-1, name=None):
 
   return output
 
+### FATT-- SOURCE --- https://github.com/tensorflow/tensorflow/blob/r1.12/tensorflow/python/ops/nn_ops.py
 
 @tf_export(v1=["nn.softmax", "math.softmax"])
 @deprecation.deprecated_args(None, "dim is deprecated, use axis instead", "dim")
